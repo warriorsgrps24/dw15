@@ -1,0 +1,14 @@
+{
+"id": null,
+"items": [
+{
+"exception": null,
+"message": "This is a dummy message",
+"payload": null,
+"id": null,
+"successful": false,
+"statusCode": null
+}
+],
+"successful": false
+}
